@@ -2,7 +2,6 @@ Bootstrap/HTML5 Responsive Template
 
 Car repair html5 bootstrap template is a well designed flat multi-purpose html5 template built with valid HTML5 & CSS3. It’s build on top of latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose needs like Car showrooms, car spare and accessories showrooms, car service points, car care points, agency, personal portfolio, profile and mobile website. 
 
-
 Credits :
 -------
 => Design and developed: "WebThemez"  http://webthemez.com
